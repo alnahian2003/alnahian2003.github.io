@@ -900,8 +900,8 @@ section {
 section.home {
   background: #18191a;
   padding: 0;
-  height: 100vh;
-  min-height: 100vh;
+  height: 105vh;
+  min-height: 105vh;
 }
 section.home .intro {
   margin: auto;
